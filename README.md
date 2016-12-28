@@ -1,2 +1,4 @@
 # hello-world
-hello-world guide
+Dong Sub Kim
+University of California - Berkeley
+Applied Math & Computer Science
